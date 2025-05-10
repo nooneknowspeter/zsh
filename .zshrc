@@ -97,3 +97,6 @@ export LIBGL_ALWAYS_INDIRECT=0
 
 # default editor
 export EDITOR=nvim
+
+# dotfiles location
+export DOTFILES=$HOME/dotfiles
